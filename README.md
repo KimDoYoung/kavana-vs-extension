@@ -1,6 +1,6 @@
-# kavana-vscode
+# kavana-vs-extension
 
-kavana script를 위한 syntax 색상 제공
+[kavana](https://github.com/KimDoYoung/kavana) script 작성을 도와주는 vscode의  extension
 
 ## vscode kavana-script extension
 
