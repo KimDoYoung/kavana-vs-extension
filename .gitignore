@@ -1,1 +1,4 @@
 *.vsix
+*.bak
+*.swp
+*.tmp

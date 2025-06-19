@@ -2,6 +2,11 @@
 
 [kavana](https://github.com/KimDoYoung/kavana) script 작성을 도와주는 vscode의  extension
 
+# 설치
+- make.sh을 실행  
+  1. package.json의 버젼을 올림
+  2. kavana-script-x.x.x.vsix가 생김
+
 ## vscode kavana-script extension
 
 1. npm -v, node -v
